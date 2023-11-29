@@ -1,4 +1,6 @@
-# robosys2022
+# plusコマンド
+![test](https://github.com/koitoshinya/robosys_2022/actions/workflows/test.yml/badge.svg)
+
 ロボットシステム学の練習リポジトリ
 
 * このソフトウェアパッケージは，3条項BSDライセンスの下，再頒布および使用が許可されます．
