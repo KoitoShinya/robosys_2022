@@ -4,14 +4,16 @@
 標準入力から読み込んだ数字を足す。
 
 
-
+## Install
+下記を実行するとリポジトリがクローンされる。
+git@github.com:KoitoShinya/robosys_2022.git
 
 ## 必要なソフトウェア
 * Python
 * テスト済み: 3.7～3.10
 
 ## テスト環境
-* Ubuntu
+* Ubuntu 20.04 on Windows
 
 * このソフトウェアパッケージは，3条項BSDライセンスの下，再頒布および使用が許可されます．
 * このパッケージは，3条項BSDライセンスのもとryuichiueda/emcl由来のコード（© 2022 Ryuichi Ueda）を利用しています．
