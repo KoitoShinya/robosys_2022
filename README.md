@@ -1,7 +1,8 @@
 # plusコマンド
 ![test](https://github.com/koitoshinya/robosys_2022/actions/workflows/test.yml/badge.svg)
 
-##　目的
+## ## リポジトリについての説明
+下記手順をインストールから順に行ってください。目的
 標準入力から読み込んだ数字を足す。（整数に限る。）
 
 ## インストール
