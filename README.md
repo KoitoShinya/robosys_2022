@@ -21,7 +21,7 @@ vi (ファイル名)
 ```
 ファイルの中身に変更を加えたい場合には下記を上から順に実行すると良い。
 ```bash
-git Add -A
+git add -A
 ```
 ```bash
 git commit -m "(動作の説明　→　Update README.mdなど）"
@@ -55,7 +55,7 @@ seq 10 | ./plus
 ## ライセンス
 * このソフトウェアパッケージは，3条項BSDライセンスの下，再頒布および使用が許可されます．
  * このパッケージのコードは，下記のスライド（CC-BY-SA 4.0 by Ryuichi Ueda）のものを，本人の許可を得て自身の著作としたものです．
- * [ryuichiueda/my_slides robosys_2022](https://github.com/ryuichiueda/my_slides/tree/master/robosys_2022)                       
- * [ryuichiueda/my_slides robosys_2022 lesson4.md](https://github.com/ryuichiueda/my_slides/tree/master/robosys_2022/lesson4.md)　
+ * [ryuichiueda/my_slides](https://github.com/ryuichiueda/my_slides/tree/master/robosys_2022)                       
+ * [robosys_2022 lesson4.md](https://github.com/ryuichiueda/my_slides/tree/master/robosys_2022/lesson4.md)　
 * © 2023 Shinya Koito
 
